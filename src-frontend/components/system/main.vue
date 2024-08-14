@@ -68,7 +68,4 @@ export default {
   min-width: 100vw;
   overflow: hidden;
 }
-
-.k-drawer-mask {  pointer-events: all !important } 
-.k-popconfirm-title { color: white }
 </style>
